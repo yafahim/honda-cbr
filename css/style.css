@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,600&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    color: #6C6C6C;
+    font-weight: 400;
+}
+/* header */
+.bg-header-background{
+    background-color: #264653;
+}
+p.topper-text{
+    color: #E0E0E0
+    ;
+}
+.btn-bg-top-btn {
+    background-color: #E76F51
+    ;
+    padding: 10px 46px;
+}
+/* featured bike */
+p.fetured-bike-p{
+    color: #E76F51;
+}
+.fetured-img-grayscale{
+    filter: grayscale(100%);
+}
+/* latest news */
+.card-text-color{
+    color: #6C6C6C
+    ;
+}
+.btn-bg-news-btn{
+    background-color: #E76F51
+    ;
+    padding: 10px 15px;
+}
+.btn-outline-news-btn{
+    border: 1px solid #E76F51;
+    color: #E76F51;
+    padding: 10px 15px;
+}
+.btn-outline-news-btn:hover{
+    color: #E76F51;
+}
+/* clients are */
+span.clients-title-text,.frequently-ask-ques-title-text{
+    color: #E77C40;
+}
+/* .user-three-rounded-img{
+border-radius: 50%;
+} */
+ul.star-list li{
+    list-style: none;
+    color: #E77C40;
+}
+/* featured offer */
+.btn-featured-offer-bg{
+    background-color: #E77C40;
+    padding: 10px 40px;
+    border-radius: 4px;
+    color: white;
+}
+.btn-featured-offer-bg:hover{
+    background-color: tomato;
+    color: white;
+}
+.featured-offer-text,.get-offer,.dealer-text,.videos-text{
+    color: #E77C40;
+}
+.bg-footer{
+    background-color: black;
+}
+.footer-list li{
+    list-style: none;
+}
